@@ -1,4 +1,4 @@
-# MDS7202 - Laboratorio de Programación Científica para Ciencia de Datos
+# IA7202 - Laboratorio de Programación Científica para Ciencia de Datos
 
 Repositorio del curso MDS7202, Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile.
 
@@ -6,8 +6,8 @@ Repositorio del curso MDS7202, Facultad de Ciencias Físicas y Matemáticas, Uni
 
 | Nombre | GitHub |
 |--------|--------|
-| Nombre Apellido 1 | [@usuario1](https://github.com/usuario1) |
-| Nombre Apellido 2 | [@usuario2](https://github.com/usuario2) |
+| Bernardita Escobar | [@usuario1](https://github.com/usuario1) |
+| Lucas Gálvez | [@usuario2](https://github.com/usuario2) |
 
 ## Estructura del repositorio
 
