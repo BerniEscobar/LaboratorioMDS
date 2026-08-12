@@ -6,8 +6,8 @@ Repositorio del curso MDS7202, Facultad de Ciencias Físicas y Matemáticas, Uni
 
 | Nombre | GitHub |
 |--------|--------|
-| Bernardita Escobar | [@usuario1](https://github.com/usuario1) |
-| Lucas Gálvez | [@usuario2](https://github.com/usuario2) |
+| Bernardita Escobar | [GitHub](https://github.com/BerniEscobar) |
+| Lucas Gálvez | [GitHub](https://github.com/LucasGalvez) |
 
 ## Estructura del repositorio
 
