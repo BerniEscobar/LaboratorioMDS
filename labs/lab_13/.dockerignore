@@ -1,0 +1,30 @@
+
+# Variables y secretos
+.env
+.env.*
+!.env.example
+
+# Entornos virtuales
+.venv
+.venv/
+**/.venv/
+
+# Modelo y datos
+data/
+
+# Archivos de desarrollo
+notebooks/
+tests/
+scripts/
+
+# Cachés
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Git y archivos del sistema
+.git/
+.DS_Store
